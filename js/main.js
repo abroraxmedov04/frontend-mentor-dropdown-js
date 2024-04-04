@@ -7,3 +7,5 @@ function dropDownFunctionality(e) {
 }
 
 document.addEventListener("click", dropDownFunctionality);
+
+// https://splendid-arithmetic-b70e84.netlify.app/
